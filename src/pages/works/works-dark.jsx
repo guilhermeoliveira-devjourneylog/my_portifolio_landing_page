@@ -2,7 +2,6 @@ import React from "react";
 import DarkTheme from "../../layouts/Dark";
 import Navbar from "../../components/Navbar";
 import SmallFooter from "../../components/Small-footer";
-import WorksStyle1 from "../../components/Works-style1";
 import addParlx from "../../common/addParlx";
 
 const WorksDark = () => {
@@ -69,7 +68,6 @@ const WorksDark = () => {
         </div>
       </header>
       <div ref={MainContent} className="main-content">
-        <WorksStyle1 />
         <SmallFooter />
       </div>
     </DarkTheme>
