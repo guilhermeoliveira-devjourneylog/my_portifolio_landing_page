@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "darkImage": "/img/clients/brands/dark/01.png",
+      "lightImage": "/img/clients/brands/light/1.png",
+      "link": "link para a marca 1",
+      "alt": "Texto para a marca 1"
+    },
+    {
+      "id": 2,
+      "darkImage": "/img/clients/brands/dark/02.png",
+      "lightImage": "/img/clients/brands/light/2.png",
+      "link": "https://devjourneylog.com/",
+      "alt": "www.devjourney.log"
+    },
+    {
+      "id": 3,
+      "darkImage": "/img/clients/brands/dark/03.png",
+      "lightImage": "/img/clients/brands/light/3.png",
+      "link": "link para a marca 3",
+      "alt": "Texto para a marca 3"
+    },
+    {
+      "id": 4,
+      "darkImage": "/img/clients/brands/dark/04.png",
+      "lightImage": "/img/clients/brands/light/4.png",
+      "link": "https://bybeet.com/",
+      "alt": "www.bybeet.com"
+    },
+    {
+      "id": 5,
+      "darkImage": "/img/clients/brands/dark/05.png",
+      "lightImage": "/img/clients/brands/light/5.png",
+      "link": "https://bybeet.com/",
+      "alt": "www.bybeet.com"
+    },
+    {
+      "id": 6,
+      "darkImage": "/img/clients/brands/dark/06.png",
+      "lightImage": "/img/clients/brands/light/6.png",
+      "link": "https://bybeet.com/",
+      "alt": "www.bybeet.com"
+    },
+    {
+      "id": 7,
+      "darkImage": "/img/clients/brands/dark/07.png",
+      "lightImage": "/img/clients/brands/light/7.png",
+      "link": "https://bybeet.com/",
+      "alt": "www.bybeet.com"
+    },
+    {
+      "id": 8,
+      "darkImage": "/img/clients/brands/dark/08.png",
+      "lightImage": "/img/clients/brands/light/8.png",
+      "link": "https://bybeet.com/",
+      "alt": "www.bybeet.com"
+    }
+]

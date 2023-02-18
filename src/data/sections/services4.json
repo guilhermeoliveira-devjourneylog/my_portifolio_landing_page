@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "UI/UX Design",
+        "icon": "pe-7s-display2",
+        "content": "Serviços de design de UI usando o Figma para ajudar a criar interfaces de usuário atraentes e fáceis de usar.\nUX usando o Figma para ajudar a otimizar a experiência do usuário em seu site ou aplicativo.\nProtótipos detalhados que ajudem a demonstrar como o seu produto funcionará na prática."
+    },
+    {
+      "id": 2,
+      "title": "Web & App Development",
+      "icon": "pe-7s-global",
+      "content": "Correções de erros, atualização de conteúdo e manutenção para garantir o pleno funcionamento do site e aplicativo. Desenvolvimento de APIs para integrações personalizadas para atender às necessidades únicas de um cliente, integrações de terceiros, soluções em nuvem escaláveis ​​e confiáveis."
+    },
+    {
+      "id": 3,
+      "title": "Mobile Development",
+      "icon": "pe-7s-phone",
+      "content":"Serviços de desenvolvimento de aplicativos híbridos e nativos. Correções de erros, atualizações de conteúdo e manutenção para garantir o pleno funcionamento do aplicativo, além de integrações de API para conectar o aplicativo com outros sistemas e plataformas."
+    }
+]
